@@ -16,7 +16,7 @@ The Scraper_Class has been created with the main inititializers and the methods 
 Methods to navigate the page: 
 Methods to scrape the features of the reviews:
 
-After all this, the code is run using if \__\name\__\=="__main__" to ensure that the code is run directly and not being imported. Success.
+After all this, the code is run using if \__name__=="__main__" to ensure that the code is run directly and not being imported. Success.
 
 ## Milestone 4
 
