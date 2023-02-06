@@ -16,4 +16,9 @@ The Scraper_Class has been created with the main inititializers and the methods 
 Methods to navigate the page: 
 Methods to scrape the features of the reviews:
 
-After all this, the code is run using if __name__=="__main__" to ensure that the code is run directly and not being imported. Success.
+After all this, the code is run using if /__/name__=="__main__" to ensure that the code is run directly and not being imported. Success.
+
+## Milestone 4
+
+More methods were created. These methods involve: next_page_button() - to move onto a next page, extract_pages_number() - to extract the maximum number we can loop over the pages, read_data_for_more_pages() - this method links the methods of clicking the next page button and scraping the features of the reviews as well as adding them to the lists of thse features of previous pages, map_data_into_dictionary() - to map feature values to feature names, save_review_data() - to save data dictionaries in json format.
+Need to comment on those why I need them.
